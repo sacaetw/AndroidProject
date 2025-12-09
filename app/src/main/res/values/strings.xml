@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Die Roller</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Die Roller</string>
+    <string name="roll">Roll</string>
+    <string name="previous">Previous</string>
+
+    <string name="instructions">
+        Press the button to roll a 6 sided die
+    </string>
+    <string name="result_header">Result:</string>
+</resources>
